@@ -16,7 +16,7 @@
 				<Item Name="Dependencies.ctl" Type="VI" URL="../Example/Config/Dependencies.ctl"/>
 				<Item Name="Dependencies.vi" Type="VI" URL="../Example/Config/Dependencies.vi"/>
 			</Item>
-			<Item Name="Main.vi" Type="VI" URL="../Example/Main.vi"/>
+			<Item Name="Launcher.vi" Type="VI" URL="../Example/Launcher.vi"/>
 		</Item>
 		<Item Name="changelog.md" Type="Document" URL="../changelog.md"/>
 		<Item Name="Provider.lvclass" Type="LVClass" URL="../Provider/Provider.lvclass"/>
